@@ -2,7 +2,7 @@
 
 🎞 **Hey , you can use my slide to make your site more attractive**
 
-![prev](https://user-images.githubusercontent.com/109727844/195934988-498f0e5d-97bb-484e-8772-cbd68bc446b1.jpg)
+![image psd](https://user-images.githubusercontent.com/109727844/200142228-549b913b-d6c9-4893-a22e-bd29627b35d5.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/SITE-TEMPLATE-GAME-ESPORT/)
 
