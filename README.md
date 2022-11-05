@@ -1,4 +1,4 @@
-# Infinity-Slider
+# GAME ESPORT
 
 **If you are bored, let's compete and play here 🏆**
 
