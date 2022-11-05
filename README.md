@@ -4,7 +4,7 @@
 
 ![prev](https://user-images.githubusercontent.com/109727844/195934988-498f0e5d-97bb-484e-8772-cbd68bc446b1.jpg)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/infinity-slider/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/SITE-TEMPLATE-GAME-ESPORT/)
 
 - 👨‍💻 Developed by [pouria farahani](https://github.com/Pouria-Farahani-developer) and [leila kefayati](https://github.com/leilakf)
 
