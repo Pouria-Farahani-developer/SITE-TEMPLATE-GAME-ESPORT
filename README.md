@@ -1,6 +1,6 @@
 # Infinity-Slider
 
-🎞 **Hey , you can use my slide to make your site more attractive**
+🎞 **If you are bored, let's compete and play here**
 
 ![image psd](https://user-images.githubusercontent.com/109727844/200142228-549b913b-d6c9-4893-a22e-bd29627b35d5.jpg)
 
